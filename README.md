@@ -12,3 +12,17 @@
 
 ## 切片練習
     與List相同，只是搭配了多維數組的概念，指定區間及取值間隔都是一樣的
+
+## 變數類型
+    使用arr.dtype來查看類型, 轉換變數類型
+    i - integer
+    b - boolean
+    u - unsigned integer
+    f - float
+    c - complex float
+    m - timedelta
+    M - datetime
+    O - object
+    S - string
+    U - unicode string
+    V - fixed chunk of memory for other type ( void )
