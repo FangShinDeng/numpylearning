@@ -26,3 +26,8 @@
     S - string
     U - unicode string
     V - fixed chunk of memory for other type ( void )
+
+# copy and view 使用及修改
+    x = arr.view
+    x = arr.copy
+    
