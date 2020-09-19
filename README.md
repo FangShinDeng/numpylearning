@@ -30,4 +30,10 @@
 # copy and view 使用及修改
     x = arr.view
     x = arr.copy
+
+# shape, reshape
+    arr.shape 打印幾組元素，每組元素的數量
+    注意使用時，後者一定要是相同數組數量的，不能[1,2],[1,2,3]，只能[1,2],[1,2]
+    
+    reshape 重塑數組, 將原本的數組重配
     
