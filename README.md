@@ -40,3 +40,7 @@
 # Iterating 迭代
     使用 nditer 來直接打印不同維度的資料
     使用 ndenumerate 來加入索引
+
+# Join 數組合併
+    使用 concatenate 合併數組
+    使用 stack, hstack, vstack, dstack 堆疊數組
