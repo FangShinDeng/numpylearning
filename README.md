@@ -44,3 +44,6 @@
 # Join 數組合併
     使用 concatenate 合併數組
     使用 stack, hstack, vstack, dstack 堆疊數組
+
+# Split 數組拆分
+    使用 split 來拆分數組，在依照拆分數組個別處理
