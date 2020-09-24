@@ -52,3 +52,9 @@
     使用where, searchsorted來搜索出特定位置
 
 # Sort 排列
+    使用sort排列數組，包含數字，文字，布林，二維陣列
+    
+# filter 過濾器
+    使用條件快速建立arr_filter的True False陣列
+    使用 print(arr[arr_filter]) 打印True內容物的陣列
+    
