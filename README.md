@@ -47,3 +47,6 @@
 
 # Split 數組拆分
     使用 split 來拆分數組，在依照拆分數組個別處理
+
+# Search
+    使用where, searchsorted來搜索出特定位置
