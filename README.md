@@ -57,4 +57,6 @@
 # filter 過濾器
     使用條件快速建立arr_filter的True False陣列
     使用 print(arr[arr_filter]) 打印True內容物的陣列
-    
+
+# random 隨機數
+    建立隨機數,隨機浮點數,隨機指定數,隨機指定維度指定數量數組
